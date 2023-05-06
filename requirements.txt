@@ -4,5 +4,5 @@ motor==2.5.1
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.3
-dnspytho==2.3.0rc1
-hachoir==3.2.0
+dnspytho==2.2.0
+hachoir==3.1.2
